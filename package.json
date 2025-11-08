@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "astraframework",
+  "version": "1.0.0",
+  "description": "🌌 AstraFramework",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "dotenv": "^17.2.3"
+  }
+}
+
