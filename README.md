@@ -46,7 +46,7 @@ Developed by Astra with creative direction and AI-assisted tooling.
 
 ---
 
-📘 Legal
+---
 
-Terms of Service
-Privacy Policy
+### 📘 Legal
+[Terms of Service](https://bugznblush.github.io/astra-legal/terms.html) • [Privacy Policy](https://bugznblush.github.io/astra-legal/privacy.html)
