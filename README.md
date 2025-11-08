@@ -8,7 +8,7 @@ Created and maintained by Astra.
 AstraFramework powers the bots of the Astra Project —
 a modular, scalable system built for clean multi-bot development.
 
-git clone https://github.com/yourusername/AstraFramework.git
+git clone https://github.com/BugzNBlush/AstraFramework.git
 npm install
 
 
