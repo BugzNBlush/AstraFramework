@@ -18,6 +18,22 @@ npm install
 
 📜 License
 
+Astra License v1.1 © 2025 The Astra Project
+Use requires permission and attribution.
+
+✨ Credits
+
+Developed by Astra with creative direction and AI-assisted tooling.
+
+“Creation. Control. Expansion.”
+
+---
+
+### 📘 Legal
+[Terms of Service](https://github.com/BugzNBlush/astra-legal/blob/main/TERMS.md) • [Privacy Policy](https://github.com/BugzNBlush/astra-legal/blob/main/PRIVACY.md)
+
+📜 License
+
 Astra License v1.0 © 2025 The Astra Project
 Use requires permission and attribution.
 
@@ -27,3 +43,10 @@ Use requires permission and attribution.
 Developed by Astra with creative direction and AI-assisted tooling.
 
 “Creation. Control. Expansion.”
+
+---
+
+📘 Legal
+
+Terms of Service
+Privacy Policy
