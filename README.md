@@ -11,6 +11,7 @@ a modular, scalable system built for clean multi-bot development.
 
 ---
 
+```md
 ### 🛠️ Usage
 ```bash
 git clone https://github.com/yourusername/AstraFramework.git
